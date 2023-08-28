@@ -1,0 +1,11 @@
+button{
+    all: unset;
+    cursor: pointer;
+    width: 10%;
+    height: 100%;
+}
+
+p{
+    font-size: xx-large;
+    width: 100%;
+}
