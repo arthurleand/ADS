@@ -1,0 +1,14 @@
+a{
+    font-size: x-large;
+    text-decoration: none;
+    font: bold;
+    color: black;
+}
+
+.me-10{
+    margin-right: 160px;
+}
+
+.bg-aluno{
+    background-color: aliceblue;
+}
